@@ -1,23 +1,24 @@
 {
-  "name": "world-cup-data-parser",
+  "name": "soccer-world-cup-parser",
   "version": "0.0.1",
-  "description": "Data scraper for world cup data from https://github.com/openfootball",
+  "description": "Soccer world cup data parser for data from https://github.com/openfootball/world-cup",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mitchmyburgh/uni-vis-world-cup-data-parser.git"
+    "url": "git+https://github.com/mitchmyburgh/uni-vis-world-cup-data-parser.git"
   },
   "keywords": [
+    "soccer",
+    "football",
     "worldcup",
     "world",
     "cup",
-    "vis",
-    "visualisation",
-    "soccer",
-    "football"
+    "world",
+    "cup",
+    "parser"
   ],
   "author": "Mitch Myburgh",
   "license": "ISC",
