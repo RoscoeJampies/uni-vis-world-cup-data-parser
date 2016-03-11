@@ -1,7 +1,7 @@
 'use strict';
 
 const worldCup = {
-  '1930': 'Hello world'
+  '1930': []
 };
 
 const years = [

@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/mitchmyburgh/uni-vis-world-cup-data-parser/issues"
   },
-  "homepage": "https://github.com/mitchmyburgh/uni-vis-world-cup-data-parser#readme"
+  "homepage": "https://github.com/mitchmyburgh/uni-vis-world-cup-data-parser#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "glob": "^7.0.0"
+  }
 }
